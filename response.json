@@ -1,0 +1,16 @@
+ {
+    "ref": "92e2ee9d-e742-4796-975c-100c3c58fe54",
+    "name": "",
+    "type": "BUTTON",
+    "position": 0,
+    "required": true,
+    "children": [
+        {
+            "ref": "92e2ee9d-e742-4796-975c-100c3c58fe54",
+            "name": "",
+            "type": "CHECKBOX",
+            "position": 0,
+            "required": false,
+            "children": []
+        }]
+ }
